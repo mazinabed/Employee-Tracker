@@ -2,24 +2,24 @@
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "Solution for managing a company's employees using node, inquirer, and MySQL",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andydurette/Employee-Tracker.git"
+    "url": "git+https://github.com/mazinabed/Employee-Tracker.git"
   },
   "keywords": [
     "node",
     "mysql"
   ],
-  "author": "Andy Durette",
+  "author": "Mazin Abed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andydurette/Employee-Tracker/issues"
+    "url": "https://github.com/mazinabed/Employee-Tracker.git/issues"
   },
-  "homepage": "https://github.com/andydurette/Employee-Tracker#readme",
+  "homepage": "https://github.com/mazinabed/Employee-Tracker.git#readme",
   "dependencies": {
     "console-table": "^0.1.2",
     "console.table": "^0.10.0",
